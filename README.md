@@ -1,2 +1,2 @@
-# python
-Learning python from scratch......
+# GIT
+Understanding the functionality of GIT
